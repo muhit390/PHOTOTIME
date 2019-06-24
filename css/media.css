@@ -1,0 +1,222 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	.menu ul li  {
+	padding: 10px 0!important;
+	text-align:center;
+}
+	
+	.banner_content{
+	padding: 180px 0px 0px;
+}
+	.banner_content_icon{
+	text-align: center;
+	margin-top: 180px;
+	
+}
+	.simple_photo{
+		padding: 100px 0;
+	}
+	.simple_photo_content{
+		text-align: center;
+	}
+	.design{
+		padding: 100px 0;
+	}
+	.design_img img{
+		width: 95%;
+		margin-left: 10px;
+	}
+	.design_content{
+		border-top: 8px solid #F5F6F1;
+		text-align: center;
+		padding-top: 30px;
+	}
+	.our_community{
+		padding: 100px 0;
+	}
+	.logo2 img{
+		margin-bottom: 20px;
+		
+	}
+	.our_community_pic1{
+		margin-top: 30px;
+	}
+	.our_community_pic1 img{
+		width: 100%;
+	}
+	.our_community_pic2{
+		margin-top: 30px;
+	}
+	.our_community_pic2 img{
+		width: 100%;
+	}
+	.subscribe{
+		padding: 280px 0;
+	}
+	.Footer_content{
+		margin-bottom: 30px;
+	}
+	.download_it_btn{
+	text-align: center;
+	padding: 0px 0px 0px 20px;
+	margin-top: 50px;
+	font-weight: 700;
+	font-size: 22px;
+}
+	.download_it_btn i {
+	margin-left: 20px;
+	font-size: 25px;
+	padding: 15px ;
+
+
+}
+	.Footer_content{
+		font-size: 12px;
+	}
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.menu ul li  {
+	padding: 10px 0!important;
+	text-align:center;
+}
+	
+	.banner_content{
+	padding: 200px 0 0px;
+}
+	.banner_content_icon{
+	text-align: center;
+	margin-top: 180px;	
+}
+	.simple_photo{
+		padding: 120px 0;
+	}
+	.simple_photo_content{
+		text-align: center;
+	}
+	.design{
+		padding: 120px 0;
+	}
+	.design_img img{
+		width: 95%;
+		margin-left: 10px;
+	}
+	
+	.design_content{
+		border-top: 8px solid #F5F6F1;
+		text-align: center;
+		padding-top: 30px;
+	}
+	.logo2 img{
+		margin-bottom: 20px;
+		
+	}
+	.our_community{
+		padding: 100px 0;
+	}
+	.our_community_pic1{
+		margin-top: 30px;
+		margin-left: 60px
+	}
+	.our_community_pic1 img{
+		width: 100%;
+	}
+	.our_community_pic2{
+		margin-top: 30px;
+		margin-left: 60px;
+	}
+	.our_community_pic2 img{
+		width: 100%;
+	}
+	.subscribe{
+		padding: 310px 0;
+	}
+	.Footer_content{
+		margin-bottom: 30px;
+	}
+	
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.menu ul li  {
+	padding: 10px 0!important;
+	text-align:center;
+}
+	
+	.banner_content{
+	padding: 220px 0px 0px;
+}
+	.banner_content_icon{
+	text-align: center;
+	margin-top: 180px;	
+}
+	.simple_photo{
+		padding: 120px 0;
+	}
+	.simple_photo_content{
+		text-align: center;
+	}
+	.design_content{
+		text-align: center;
+	}
+	
+	.design_content h1{
+		margin-bottom: 10px;
+	}
+	.our_community_pic1{
+		margin-top: 30px;
+	}
+	.our_community_pic1 img{
+		width: 100%;
+	}
+	.our_community_pic2{
+		margin-top: 30px;
+	}
+	.our_community_pic2 img{
+		width: 100%;
+	}
+	.subscribe{
+		padding: 350px 0;
+	}
+	.download_it_btn{
+	text-align: center;
+	padding: 0px 0px 0px 70px;
+	margin-top: 50px;
+	font-weight: 700;
+	font-size: 25px;
+}
+	.download_it_btn i {
+	margin-left: 20px;
+	font-size: 25px;
+	padding: 25px ;
+
+
+}
+	
+	
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.simple_photo_img img{
+		width: 110%;
+		margin-top: 150px;
+	}
+	.our_community_pic1{
+		margin-top: 30px;
+	}
+	.our_community_pic1 img{
+		width: 100%;
+	}
+	.our_community_pic2{
+		margin-top: 30px;
+	}
+	.our_community_pic2 img{
+		width: 100%;
+	}
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
